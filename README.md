@@ -1,6 +1,6 @@
 ## Hi, I'm Brett.
 
-### A software engineer, working with teams in data.
+### Currently a software engineer in data analytics.
 - Engineering software-defined data analytics pipelines, implementing DevOps practices and technology for automation.
 
 ### My Side Projects:
