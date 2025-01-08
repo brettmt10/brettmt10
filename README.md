@@ -15,5 +15,5 @@ Here's what I do for fun.
 - Custom LLM Development: Python
 
 ### My account from school:
-- Some older projects, as well as my [fix8](https://github.com/nalmadi/fix8) development, is here: [my school account](github.com/brettmt13).
+- Some older projects, as well as my [fix8](https://github.com/nalmadi/fix8) development, is here: [my school account](https://github.com/brettmt13).
 
