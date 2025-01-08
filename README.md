@@ -1,6 +1,6 @@
 ## Hi, I'm Brett.
 
-### Currently a software engineer in data analytics.
+### Currently a software engineer.
 - Engineering software-defined data analytics pipelines, implementing DevOps practices and technology for automation.
 
 ### My Side Projects:
@@ -13,3 +13,7 @@ Here's what I do for fun.
 - Web Development: Django, JavaScript
 - API Development and Data Extraction: Python
 - Custom LLM Development: Python
+
+### My account from school:
+- Some older projects, as well as my [fix8](https://github.com/nalmadi/fix8) development, is here: [my school account](github.com/brettmt13).
+
