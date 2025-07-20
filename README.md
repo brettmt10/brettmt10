@@ -1,4 +1,4 @@
-## Hi, I'm Brett.
+## Hi, I'm Brett
 
 ### My Side Projects:
 Here's what I do for fun.
