@@ -6,5 +6,5 @@ An open-source GUI Tool for analyzing eye tracking data in reading tasks: [fix8]
 
 ### My Current Project:
 #### I'm currently working on an AI chatbot trained on sports data.
-[NHL StatHub AI](https://github.com/brettmt10/nhlstathubAI/).
+[StatHub AI](https://github.com/brettmt10/stathubAI/).
 
