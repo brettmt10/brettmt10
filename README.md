@@ -8,3 +8,5 @@ An open-source GUI Tool for analyzing eye tracking data in reading tasks: [fix8]
 #### I'm currently working on an AI chatbot trained on sports data.
 [StatHub AI](https://github.com/brettmt10/stathubAI/).
 
+### Feel free to email me if you'd like to collab!
+
